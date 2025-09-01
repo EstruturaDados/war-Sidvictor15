@@ -145,7 +145,7 @@ int main() {
                    i + 1, cadastro[i].territorio, cadastro[i].cor, cadastro[i].tropa);
         }
     }
-
+    
     free(cadastro);
     return 0;
 }
